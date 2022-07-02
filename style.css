@@ -290,3 +290,17 @@ input[type=text], select, textarea {
     display: table;
     clear: both;
   }
+
+
+  .footer{
+      bottom: 0;
+      background-color: #009cdd;
+      height: 30%;
+      display: flex;
+      padding: 2% 4%;
+      width: 100%;
+      justify-content: space-between;
+  }
+  .num{
+      float: right;
+  }
